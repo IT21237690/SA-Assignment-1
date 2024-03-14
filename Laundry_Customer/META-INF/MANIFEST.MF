@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Laundry_Customer
+Bundle-SymbolicName: Laundry_Customer
+Bundle-Activator: laundry_customer.Activator
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Import-Package: laundry_service,
+ org.osgi.framework;version="1.3.0"
